@@ -8,20 +8,6 @@ This project was built using React, Redux, Sass, HTML, JavaScript, Rest API, Nod
 - Node JS
 - MongoDB
 
-### Setup
-
-```
-Using HTTPS
-
-# git clone https://github.com/zuhedshaikh95/fiverr-clone.git
-```
-
-- Open terminal on your workspace with
-
-```
-cd /home/workspace/fiverr-clone
-```
-
 ## Install
 
 Install NPM
