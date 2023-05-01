@@ -89,9 +89,9 @@ const Navbar = () => {
 
         <div className="links">
           <div className="menu-links">
-            <span>HouseOfFlair Business</span>
+            <span>Business</span>
             <span>Explore</span>
-            <span>English</span>
+            {/* <span>English</span> */}
             {!currentUser.isSeller && <span>Become a Seller</span>}
           </div>
           {!currentUser && <span><Link to='/login' className="link">Sign in</Link></span>}
