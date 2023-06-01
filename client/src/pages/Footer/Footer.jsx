@@ -11,61 +11,11 @@ const Footer = () => {
     <div className='footer'>
       <div className="container">
         <div className="top">
-          <div className="item">
-            <h1>Categories</h1>
-            <span>Graphic & Design</span>
-            <span>Digital Marketing</span>
-            <span>Writing & Translation</span>
-            <span>Video & Animation</span>
-            <span>Music & Audio</span>
-            <span>Programming & Tech</span>
-            <span>Data</span>
-            <span>Business</span>
-            <span>Lifestyle</span>
-            <span>Photography</span>
-            <span>Sitemap</span>
-          </div>
-          <div className="item">
-            <h1>About</h1>
-            <span>Careers</span>
-            <span>Press & News</span>
-            <span>Partnership</span>
-            <span>Privacy Policy</span>
-            <span>Terms of Service</span>
-            <span>Intellectual Property Claims</span>
-            <span>Investor Relations</span>
-          </div>
-          <div className="item">
-            <h1>Support</h1>
-            <span>Help & Support</span>
-            <span>Trust & Safety</span>
-            <span>Selling on HouseOfFlair</span>
-            <span>Buying on HouseOfFlair</span>
-          </div>
-          <div className="item">
-            <h1>Community</h1>
-            <span>Events</span>
-            <span>Blog</span>
-            <span>Forum</span>
-            <span>Community Standards</span>
-            <span>Podcast</span>
-            <span>Affiliats</span>
-            <span>Invite a Friend</span>
-          </div>
-          <div className="item">
-            <h1>More From HouseOfFlair</h1>
-            <span>HouseOfFlair Business</span>
-            <span>HouseOfFlair Pro</span>
-            <span>HouseOfFlair Studios</span>
-            <span>HouseOfFlair Logo Maker</span>
-            <span>HouseOfFlair Guild</span>
-            <span>Get Inspired</span>
-            <span>HouseOfFlair Select</span>
-            <span>Clear Voice</span>
-            <span>HouseOfFlair Workspace</span>
-            <span>Learn</span>
-            <span>Working Not Working</span>
-          </div>
+            
+         
+         
+          
+          
         </div>
         <hr />
         <div className="bottom">
